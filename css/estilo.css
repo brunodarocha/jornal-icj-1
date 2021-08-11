@@ -216,7 +216,7 @@ iframe {
     font-size: 30px;
 }
 
-.newsmain {
+.newsmain > p {
     text-align: justify;
     padding: 15px;
     font-size: 17px;
@@ -224,7 +224,7 @@ iframe {
 
 .descricao {
     text-align: center;
-    font-size: 18px;
+    font-size: 19px;
 }
 
 #newsnmainaviso {
@@ -243,4 +243,10 @@ p.newsmain a {
 
 .pergunta {
     font-weight: 600;
+}
+
+.subtitulo {
+    color:rgb(76, 76, 235);
+    font-weight: 600;
+
 }
