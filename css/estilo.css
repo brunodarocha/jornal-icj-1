@@ -192,7 +192,7 @@ header {
 }
 
 .secaonews {
-    width: 600px;
+    width: 1200px;
     margin: 30px auto 30px;
     align-content: center;
 }
@@ -200,6 +200,8 @@ header {
 .containernews {
     border: 2px solid lightgreen;
     border-radius: 6px;
+    text-align: justify;
+    padding: 2rem;
 }
 
 .containernews img,
@@ -220,6 +222,11 @@ iframe {
     font-size: 17px;
 }
 
+.descricao {
+    text-align: center;
+    font-size: 18px;
+}
+
 #newsnmainaviso {
     padding: 15px;
 }
@@ -232,4 +239,8 @@ p.newsmain a {
 .containernews>a {
     padding: 0 15px 0 15px;
     text-decoration: none;
+}
+
+.pergunta {
+    font-weight: 600;
 }
