@@ -250,3 +250,13 @@ p.newsmain a {
     font-weight: 600;
 
 }
+
+#tituloeduc {
+    font-size: 25px;
+    text-align: center;
+}
+
+#tituloicj {
+    font-size: 35px;
+    width: 350px;
+}
