@@ -252,11 +252,15 @@ p.newsmain a {
 }
 
 #tituloeduc {
-    font-size: 25px;
+    font-size: 22px;
     text-align: center;
 }
 
 #tituloicj {
     font-size: 35px;
     width: 350px;
+}
+
+#diamae {
+    font-size: 25px;
 }
